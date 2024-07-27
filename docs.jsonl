@@ -383,3 +383,4 @@
 { "name": "TLDraw", "crawlerStart": "https://tldraw.dev/", "crawlerPrefix": "https://tldraw.dev/" }
 { "name": "Swift", "crawlerStart": "https://developer.apple.com/documentation/technologies", "crawlerPrefix": "https://developer.apple.com/documentation/technologies" }
 { "name": "shadcn/ui", "crawlerStart": "https://ui.shadcn.com/docs/components/", "crawlerPrefix": "https://ui.shadcn.com/docs/components/" }
+{ "name": "DaisyUI", "crawlerStart": "https://daisyui.com/components/button/", "crawlerPrefix": "https://daisyui.com/components/" }
